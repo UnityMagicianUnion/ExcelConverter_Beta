@@ -1,0 +1,53 @@
+# =============== #
+# Custom Ignore #
+# =============== #
+Assets/Test/
+Assets/Test.meta
+Assets/ScriptTemplates/
+Assets/ScriptTemplates.meta
+
+
+# =============== #
+# Unity generated #
+# =============== #
+Temp/
+Library/
+Debug/
+
+
+# =============== #
+# Unity Plugins   #
+# =============== #
+Assets/codeandweb.com/
+Assets/codeandweb.com.meta
+
+
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+ExportedObj/
+.vs/
+obj/
+bin/
+*.svd
+*.userprefs
+*.csproj
+*.pidb
+*.suo
+*.sln
+*.user
+*.unityproj
+*.booproj
+
+
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
